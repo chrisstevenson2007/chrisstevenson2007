@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @chrisstevenson2007
-- 👀 I’m interested in designs and floorplans for architecture.
-- 🌱 I’m currently learning JavaScript for coding.
-- 💞️ I’m looking to collaborate on projects involving games and coding them.																																																																											
-- 📫 How to reach me: by phone duh (231-838-2433)
